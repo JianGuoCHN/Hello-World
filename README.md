@@ -1,2 +1,3 @@
 # Hello-World
-Hello world ! I want learn Python.
+
+print('Hello World')
